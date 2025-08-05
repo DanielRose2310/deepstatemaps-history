@@ -18,6 +18,22 @@ To provide accurate, real-time visualizations of frontline developments based on
 - Historical timeline of territorial changes  
 - OSINT-based annotations and reporting
 
+## 📁 File Format
+
+All map files are stored in [GeoJSON](https://geojson.org/) format.  
+Each file is named using the following convention:
+
+```
+{timestamp}.geojson
+```
+
+Where `{timestamp}` is the UTC Unix timestamp (in seconds) representing the map’s publication time.
+
+Example:
+```
+1722873600.geojson
+```
+
 ## 🤝 Support & Attribution
 
 DeepStateMaps.live is a volunteer-driven project.  
