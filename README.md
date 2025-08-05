@@ -1,4 +1,4 @@
-# 📍 DeepStateMaps.live
+# 📍 DeepStateMaps.live archive
 
 **DeepStateMaps.live** is an independent open-source intelligence (OSINT) platform that provides daily interactive battlefield maps and situation updates related to the Russian invasion of Ukraine.
 
@@ -47,3 +47,4 @@ All data is for informational purposes only and may not reflect real-time or off
 
 > **Note:** This repository and its maintainer are **not affiliated** with DeepStateMaps.live.  
 > This is an independent archival project created for educational and non-commercial purposes.
+
